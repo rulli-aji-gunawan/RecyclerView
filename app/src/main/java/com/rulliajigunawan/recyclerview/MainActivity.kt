@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
             override fun detailData(item: Pemain?) {
                 TODO("Not yet implemented")
             }
-
         })
     }
 
