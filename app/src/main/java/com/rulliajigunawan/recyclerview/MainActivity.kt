@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity() {
                 TODO("Not yet implemented")
             }
 
-
         })
     }
 
