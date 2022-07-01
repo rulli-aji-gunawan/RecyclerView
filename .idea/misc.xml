@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/background_blue.xml" value="0.1" />
+        <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/background_btn.xml" value="0.1" />
         <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_profile.xml" value="0.176" />
         <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
-        <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/detail_data_pemain.xml" value="0.1" />
+        <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/detail_data_pemain.xml" value="0.2" />
         <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/layout/list_item_pemain.xml" value="0.1" />
+        <entry key="..\:/Users/rully/AndroidStudioProjects/RecyclerView/app/src/main/res/menu/menu_main.xml" value="0.1" />
       </map>
     </option>
   </component>
